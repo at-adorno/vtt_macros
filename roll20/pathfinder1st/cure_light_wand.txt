@@ -1,2 +1,1 @@
-&{template:pc} {{name=Wand:Cure Light Wounds}}{{Target=@{target|Token_Name}}}
-{{Charges:[[?{How many charges|1}]] =Heal [[?{How many charges|1}d8 + ?{How many charges|1}  ]] HP}}
+&{template:pc}{{name=Varinha de curar ferimentos leves}}{{type=hp}}{{roll= [[1d8 + 1]]}}
